@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Color_Picker_App</string>
+    <string name="options">options</string>
+    <string name="confirm">confirm</string>
+    <string name="cancel">cancel</string>
+</resources>
